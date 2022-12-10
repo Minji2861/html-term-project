@@ -19,9 +19,10 @@ header{
 .img li {float:left;}
 .img li img { width:80px; height:80px; border:2px solid #e8e8e8;}
 
+.img2{position: absolute;left:0;top:520px;}
 
 footer {
-  background-color: gray;
+  background-color: white;
 }
 
 .main-wrapper {
